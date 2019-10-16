@@ -1,0 +1,17 @@
+{
+	"name": "com.nreal.puremvc-unity-multicore-framework",
+	"version": "1.0.0",
+	"displayName": "com.nreal.puremvc-unity-multicore-framework",
+	"description": "This is nearly a copy of puremvc-csharp-multicore-framework except for bit of modification.",
+	"unity": "2018.4",
+	"unityRelease": "10f1",
+	"dependencies": {
+	},
+	"keywords": [
+		"puremvc"
+	],
+	"author": {
+		"name": "wangzj",
+		"email": "rwangzj@live.com"
+	}
+}
